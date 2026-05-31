@@ -2,6 +2,10 @@
 
 A production-ready, full-stack cybersecurity operations dashboard built with React 18, Vite, TypeScript, Tailwind CSS, and Supabase.
 
+
+
+[LINK] (https://sentinel-7mxu9rdys-priyas-projects-cb19cbd4.vercel.app/login)
+
 ## 🚀 Quick Start (Demo Mode)
 
 The app works immediately without any configuration using built-in demo accounts:
